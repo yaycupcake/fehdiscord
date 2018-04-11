@@ -2,8 +2,10 @@
 For the /r/FireEmblemHeroes Discord server at https://discord.gg/fireemblemheroes
 
 # Documents List (WIP)
-[How to use Ninobot](howtoninobot)
-[All Dyno Tags](alldynotags)
+
+## Bot-related Documents
+- [How to use Ninobot](howtoninobot)
+- [All Dyno Tags](alldynotags)
 
 # Contributors
 This is maintained by the people on this list, consisting of moderators on our discord.
