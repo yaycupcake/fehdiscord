@@ -4,5 +4,26 @@
 @import "{{ site.theme }}";
 
 h1:first-of-type {
-  display: none;
+    border-bottom: none;
+}
+
+h1:first-of-type {
+    font-size: 0px;
+}
+
+h1:first-of-type a:before {
+    font-size: 16px;
+    content: "home";
+    border: 1px solid #DFE2E5;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #F6F8FA;
+}
+
+h1:first-of-type a:hover {
+    text-decoration: none;
+}
+
+h1:first-of-type a:before:hover {
+    background-color: #F6F8FA!important;
 }
