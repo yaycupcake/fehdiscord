@@ -1,5 +1,5 @@
 How to use Ninobot
-Note: Accent ` denotes commands to put in Ninobot
+Note: Accent \` denotes commands to put in Ninobot
       Brackets `[stuff]` indicate replace the whole statement.
  
 1. Basic hero entry (skills with descriptions) is `!h [hero name]`
