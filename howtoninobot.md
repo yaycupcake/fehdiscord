@@ -1,4 +1,5 @@
-How to use Ninobot
+#How to use Ninobot
+
 Note: Accent \` denotes commands to put in Ninobot
       Brackets `[stuff]` indicate replace the whole statement.
  
@@ -35,7 +36,9 @@ Note: Accent \` denotes commands to put in Ninobot
  
  
 Other Useful Ninobot Commands
+
     `![x]passive`: Ninobot will DM you a list of the passives in x slot
+    
     `!refinestats`: Ninobot will DM you a list of how the weapon refines work
  
 There are also some secret aliases! Think about the memes surrounding some of the characters or skills and find them out yourself!
