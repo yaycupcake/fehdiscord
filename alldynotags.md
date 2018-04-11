@@ -1,8 +1,10 @@
-# Public Axura Tags
+# All Dyno Tags
+
+## Public Axura Tags
 
 Call up Axura tags using `?t tagname`
 
-# Internal Calls
+## Internal Calls
 
 `?t rulex` - Brings whatever rule you replace 'x' with
 
@@ -44,7 +46,7 @@ Call up Axura tags using `?t tagname`
 
 `?t spcost` - SP Cost Sheet created by SoulSkourer
 
-# Arena Info
+## Arena Info
 
 `?t arenaform` - Brings up entry form for Roman's 700-710 Common Enemy Arena Builds list
 
