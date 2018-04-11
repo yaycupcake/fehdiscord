@@ -1,4 +1,4 @@
-#How to use Ninobot
+# How to use Ninobot
 
 Note: Accent \` denotes commands to put in Ninobot
       Brackets `[stuff]` indicate replace the whole statement.
