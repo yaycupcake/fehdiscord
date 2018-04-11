@@ -1,5 +1,5 @@
-# fehdiscord
-For the /r/FireEmblemHeroes Discord server at discord.gg/fireemblemheroes
+# Fire Emblem Heroes Discord Documents
+For the /r/FireEmblemHeroes Discord server at https://discord.gg/fireemblemheroes
 
 # Contributors
 This is maintained by the people on this list, consisting of moderators on our discord.
