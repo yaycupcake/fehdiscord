@@ -26,7 +26,7 @@ Call up Axura tags using `?t tagname`
 
 `?t acost` - Brings up an image with all A skills sorted by SP Cost
              
-	   - Replace `a` with `b` `c` or `seal` for other skills
+ * Replace `a` with `b` `c` or `seal` for other skills
 
 `?t RTP` - Read the Pins
 
