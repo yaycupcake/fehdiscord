@@ -37,9 +37,9 @@ Note: Accent \` denotes commands to put in Ninobot
  
 Other Useful Ninobot Commands
 
-    `![x]passive`: Ninobot will DM you a list of the passives in x slot
+`![x]passive`: Ninobot will DM you a list of the passives in x slot
     
-    `!refinestats`: Ninobot will DM you a list of how the weapon refines work
+`!refinestats`: Ninobot will DM you a list of how the weapon refines work
  
 There are also some secret aliases! Think about the memes surrounding some of the characters or skills and find them out yourself!
 (But please do that in #botspam)
