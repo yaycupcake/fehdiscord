@@ -1,5 +1,7 @@
 # How to use Ninobot
 
+##Page is currently under construction. Information may be inaccurate or incomplete.
+
 **Note**: Anything in `code blocks` denotes commands to put in Ninobot
  * Brackets `[stuff]` indicate replace the whole statement.
  
