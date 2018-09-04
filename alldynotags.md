@@ -1,5 +1,7 @@
 # All Dyno Tags
 
+## This page is still under construction. The information should be accurate, however it may be incomplete at this time.
+
 ## Public Naga Tags
 
 Call up Naga (our nickname for Dyno) tags using `?t tagname`
