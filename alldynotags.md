@@ -1,18 +1,18 @@
 # All Dyno Tags
 
-## Public Axura Tags
+## Public Naga Tags
 
-Call up Axura tags using `?t tagname`
+Call up Naga tags using `?t tagname`
 
 ## Internal Calls
 
-`?t rulex` - Brings whatever rule you replace 'x' with
+`?t rulex` - Brings whatever rule you replace 'x' with, for example `?t rule3`
 
 `?t badges` - Training Tower badge schedule
 
 `?t arenabonus` - Current arena bonus heroes
 
-`?t events` `?t calendar` - Most current version of the FEH calendar
+`?t calendar` `?t events` `?t schedule` - Most current version of the FEH calendar, any of these three works
 
 `?t vgbonus` - Tells you how to toggle VG Bonus Alerts
 
@@ -24,20 +24,20 @@ Call up Axura tags using `?t tagname`
 
 `?t aarewards` - Brings up an image with rewards by Arena Assault tier
 
-`?t season` - Brings up the most current Blessings season schedule
+`?t season` `?t seasons` - Brings up the most current Blessings season schedule, either command works
 
 `?t acost` - Brings up an image with all A skills sorted by SP Cost
              
  * Replace `a` with `b` `c` or `seal` for other skills
 
-`?t RTP` - Read the Pins
+`?t RTP` `?t rtp` - Brings up a reminder to Read the Pins
 
 # External Links
 
 ## FEH Game Resources:
 
 `?t fehsim` - Mass Duel Simulator
-
+bu 
 `?t ivcalc` - Gamepedia IV Calculator page
 
 `?t statsdb` `?t ivtable` - Level 1-40 public stats database
