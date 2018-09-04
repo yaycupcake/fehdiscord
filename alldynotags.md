@@ -32,6 +32,11 @@ Call up Naga (our nickname for Dyno) tags using `?t tagname`
 
 `?t RTP` `?t rtp` - Brings up a reminder to Read the Pins
 
+`?t aarewards` - Brings up a chart showing the reward table for Arena Assault
+
+`?aoe` - Reference for the shape of AOE specials
+
+
 # External Links
 
 ## FEH Game Resources:
@@ -77,6 +82,9 @@ bu
 
 `?t bannerchance` - Orb Cost Analysis by /u/Bacon_Falcon
 
+`?t aiguide` - A guide by Verve on the way the AI works in the game
+
+
 ## Guides
 
 `?t beginnersguide` - Beginners Guide made by VeronicaSoon
@@ -90,6 +98,8 @@ bu
 `?t howtoninobot` - Brings up the "How to use Ninobot" guide
 
 `?t emotelist` - Pastebin with sources for all Emotes on FEH Server
+
+`?t invite` - A link to share with your friends so they can join the server
 
 
 ## Other Resources
