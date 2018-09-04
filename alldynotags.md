@@ -2,7 +2,7 @@
 
 ## Public Naga Tags
 
-Call up Naga tags using `?t tagname`
+Call up Naga (our nickname for Dyno) tags using `?t tagname`
 
 ## Internal Calls
 
@@ -85,7 +85,7 @@ bu
 
 ## Discord Resources
 
-`?t tags` - Brings up a pastebin with all the Axura tags
+`?t tags` - Brings up a pastebin with all the Naga tags
 
 `?t howtoninobot` - Brings up the "How to use Ninobot" guide
 
